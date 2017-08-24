@@ -1,6 +1,6 @@
 ### Calculator React JS 
 
-#For the moment it contains the basic files of the project. 
+# For the moment it contains the basic files of the project. 
 Structure of the project being: 
   - public
     -favicon
